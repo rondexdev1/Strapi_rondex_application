@@ -1,0 +1,15 @@
+{
+  "kind": "collectionType",
+  "collectionName": "p_products",
+  "info": {
+    "singularName": "p-product",
+    "pluralName": "p-products",
+    "displayName": "PProduct",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {}
+}
